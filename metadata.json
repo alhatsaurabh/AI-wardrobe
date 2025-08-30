@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Virtual Wardrobe (magic edit update)",
+  "description": "Upload a photo of yourself and a clothing item to see how it looks on you. This virtual try-on experience is powered by Google's Gemini API.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
